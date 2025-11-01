@@ -1,0 +1,8 @@
+name = "binge-tracker"
+compatibility_date = "2024-07-25"
+pages_build_output_dir = "static"
+
+[[d1_databases]]
+binding = "binge_tracker_db"
+database_name = "binge-tracker-db"
+database_id = "b306856b-ada8-40ca-989c-92af1f870931"
