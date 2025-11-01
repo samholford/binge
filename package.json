@@ -33,6 +33,20 @@
 		"tailwindcss": "^4.1.16",
 		"typescript": "^5.9.3",
 		"typescript-eslint": "^8.46.2",
-		"vite": "^7.1.12"
-	}
+		"vite": "^7.1.12",
+		"wrangler": "^4.45.3"
+	},
+	"description": "Created using svelte CLI",
+	"main": "eslint.config.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/samholford/binge.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/samholford/binge/issues"
+	},
+	"homepage": "https://github.com/samholford/binge#readme"
 }
